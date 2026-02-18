@@ -1,1 +1,6 @@
-print("Hello, World!")
+First=float(input("Enter the first number: "))
+Second=float(input("Enter the second number: "))
+print("Addition: ",First+Second)
+print("Subtraction: ",First-Second)
+print("Multiplication: ",First*Second)
+print("Division: ",First/Second)
